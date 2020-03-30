@@ -29,7 +29,7 @@ class Clusters{
         const server = http.createServer(app);
         const io = new Socket(server).init();
         const PORT = process.env.PORT || 3000;
-        server.listen(PORT, () => console.log(`Servidor em execução na porta ${PORT}`));
+        server.listen(PORT, () => console.log(`Servidor em execução na porta ${PORT}`))
     }
 }
 

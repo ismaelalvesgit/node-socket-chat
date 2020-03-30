@@ -6,5 +6,5 @@ Aplicativo de bate-papo em tempo real com websockets usando Node.js, Express e S
 npm install
 npm run dev
 
-Vá para localhost:3000
+Navegue para localhost:3000
 ```

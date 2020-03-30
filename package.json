@@ -1,7 +1,7 @@
 {
   "name": "chatcord",
   "version": "1.0.0",
-  "description": "Realtime chat app with rooms",
+  "description": "Aplicativo de bate-papo em tempo real com salas",
   "main": "server.js",
   "scripts": {
     "start": "babel-node index.js",
